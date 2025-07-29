@@ -1,4 +1,4 @@
-Pillow
+Pillow==9.5.0
 newspaper3k
 urllib3
 streamlit
